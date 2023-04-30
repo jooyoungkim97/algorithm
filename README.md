@@ -1,1 +1,1 @@
-# algorithm
+# solving algorithms in baekjoon
